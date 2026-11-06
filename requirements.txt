@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python-headless
+Pillow
+rasterio
+pyproj
+torch>=2.1
+torchvision>=0.16
+timm>=1.0
+torchmetrics
+pycocotools
+grad-cam

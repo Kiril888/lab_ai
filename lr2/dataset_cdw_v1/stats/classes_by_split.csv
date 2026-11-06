@@ -1,0 +1,5 @@
+cls,test,train,val
+crane,4,3,4
+dump_truck,21,13,2
+excavator,13,19,6
+other_vehicle,6,15,9

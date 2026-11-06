@@ -1,0 +1,7 @@
+file,scene,site,source,sensor,gsd_m,date,license
+raw/s01.tif,s01,site1,synthetic (synth_site.py),UAV RGB (імітація),0.05,2026-06-12,власні синтетичні дані
+raw/s02.tif,s02,site1,synthetic (synth_site.py),UAV RGB (імітація),0.05,2026-07-03,власні синтетичні дані
+raw/s03.tif,s03,site2,synthetic (synth_site.py),UAV RGB (імітація),0.05,2026-06-20,власні синтетичні дані
+raw/s04.tif,s04,site3,synthetic (synth_site.py),UAV RGB (імітація),0.05,2026-08-01,власні синтетичні дані
+raw/s05.tif,s05,site4,synthetic (synth_site.py),UAV RGB (імітація),0.05,2026-09-15,власні синтетичні дані
+raw/s06.tif,s06,site5,synthetic (synth_site.py),UAV RGB (імітація),0.05,2026-10-02,власні синтетичні дані

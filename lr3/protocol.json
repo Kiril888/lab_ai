@@ -1,0 +1,16 @@
+{
+ "seed": 0,
+ "img_size": 224,
+ "epochs_baseline": 20,
+ "epochs_probe": 12,
+ "epochs_finetune": 8,
+ "batch": 8,
+ "optimizer": "AdamW",
+ "lr_head": 0.001,
+ "lr_body": 1e-05,
+ "weight_decay": 0.05,
+ "patience": 4,
+ "val_metric": "macro-F1",
+ "focal_gamma": 2.0,
+ "norm_mean_std": 0.5
+}
