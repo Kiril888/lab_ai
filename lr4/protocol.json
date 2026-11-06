@@ -1,0 +1,15 @@
+{
+ "seed": 0,
+ "img_size": 384,
+ "epochs": 15,
+ "epochs_baseline": 5,
+ "batch": 4,
+ "optimizer": "SGD",
+ "lr": 0.005,
+ "momentum": 0.9,
+ "weight_decay": 0.0001,
+ "patience": 5,
+ "aug": "hflip, vflip, rot90",
+ "score_thresh_eval": 0.05,
+ "nms_iou": 0.5
+}
